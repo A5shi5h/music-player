@@ -14,3 +14,6 @@ What I learned from this project:
 
 Where did I face problem
 1. I faced problem while building logic for forward and backward button as I wanted the song to continue playing and not pause when new song was played.
+
+
+Big thanks to Sheriyan Coding School for the guidance......
